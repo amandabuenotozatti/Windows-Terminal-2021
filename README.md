@@ -1,10 +1,11 @@
 # Windows Terminal 2021
-### My Windows terminal configuration <img alt="terminal" src="https://emojis.slackmojis.com/emojis/images/1476969053/1263/terminal.png?1476969053" width="30/">
+### My Windows terminal configuration 
+<img alt="terminal" src="https://emojis.slackmojis.com/emojis/images/1476969053/1263/terminal.png?1476969053" width="30/">
 
 <br>
 <br>
-<img alt="terminal" src="https://emojis.slackmojis.com/emojis/images/1585816994/8440/loading-dots.gif?1585816994" width="30/">Clone this project and have fun!
-<br>
+
+* Clone this project and have fun <img alt="fun" src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="25/" margin="low">
 <h5> Transparency effect
 <br>
 
